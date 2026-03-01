@@ -7,7 +7,7 @@ function createBot() {
     host: 'corrruptedsmpxyz.falix.gg',
     port: 28853, // ✅ Replace with actual port number
     username: 'aurora_assistant',
-    version: '1.21.11'
+    version: 'false'
   });
 
   bot.on('message', (message) => {
@@ -94,4 +94,5 @@ function createBot() {
 }
 
 createBot();
+
 
