@@ -10,6 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "mineflayer": "^4.25.0"
+    "mineflayer": "^4.22.0"
   }
 }
