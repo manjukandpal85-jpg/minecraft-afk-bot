@@ -9,7 +9,7 @@ http.createServer((req, res) => {
 
 // 2. BOT SETTINGS
 const botArgs = {
-  host: 'corrruptedsmpxyz.falix.gg', 
+  host: '157.90.205.61:28853', 
   port: 28853,                       
   username: 'aurora_assistant',      
   version: '1.21.4',                 //
@@ -46,6 +46,7 @@ function createBot() {
 }
 
 createBot();
+
 
 
 
