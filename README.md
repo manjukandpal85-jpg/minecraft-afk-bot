@@ -8,7 +8,7 @@ Aurora Assistant is a lightweight **Minecraft AFK bot** built with [mineflayer](
 
 | Setting    | Value                      |
 |-----------|----------------------------|
-| Host      | `corrruptedsmpxyz.falix.gg`   |
+| Host      | `157.90.205.61:28853`   |
 | Port      | `28853`           |
 | Version   |'1.21.4'              |
 | Username  | `aurora_assistant`         |
