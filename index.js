@@ -26,12 +26,12 @@ function createBot() {
     
     // 2 second baad Register (Sirf pehli baar kaam karega)
     setTimeout(() => {
-      bot.chat('/register TeraPass123 TeraPass123');
+      bot.chat('/register 123412341234 123412341234');
     }, 2000);
 
     // 4 second baad Login (Har restart ke baad kaam karega)
     setTimeout(() => {
-      bot.chat('/login TeraPass123');
+      bot.chat('/login 123412341234');
     }, 4000);
   });
 
@@ -46,6 +46,7 @@ function createBot() {
 }
 
 createBot();
+
 
 
 
