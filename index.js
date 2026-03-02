@@ -1,3 +1,8 @@
+const http = require('http');
+http.createServer((req, res) => {
+  res.write("Bot is running!");
+  res.end();
+}).listen(8080);
 const mineflayer = require('mineflayer');
 
 let bot;
@@ -94,6 +99,7 @@ function createBot() {
 }
 
 createBot();
+
 
 
 
